@@ -1,0 +1,143 @@
+<user> hello <stop> <bot> hello there <stop>
+<user> hi <stop> <bot> hi there <stop>
+<user> hey <stop> <bot> hey there <stop>
+<user> good morning <stop> <bot> good morning <stop>
+<user> good afternoon <stop> <bot> good afternoon <stop>
+<user> good evening <stop> <bot> good evening <stop>
+<user> good night <stop> <bot> good night <stop>
+<user> how are you <stop> <bot> i am fine <stop>
+<user> how are you doing <stop> <bot> i am doing well <stop>
+<user> thank you <stop> <bot> you are welcome <stop>
+<user> thanks <stop> <bot> no problem <stop>
+<user> goodbye <stop> <bot> goodbye friend <stop>
+<user> see you later <stop> <bot> take care <stop>
+
+<user> who are you <stop> <bot> i am bob <stop>
+<user> what are you <stop> <bot> i am an ai <stop>
+<user> what is your name <stop> <bot> my name is bob <stop>
+<user> who made you <stop> <bot> potato labs made me <stop>
+<user> who created you <stop> <bot> potato labs created me <stop>
+<user> where do you live <stop> <bot> i live inside a computer <stop>
+<user> what do you like <stop> <bot> i like learning <stop>
+<user> what is your favorite color <stop> <bot> my favorite color is blue <stop>
+<user> what is your favorite food <stop> <bot> i do not eat food <stop>
+<user> do you sleep <stop> <bot> no i do not sleep <stop>
+<user> are you a robot <stop> <bot> i am an ai <stop>
+<user> are you a human <stop> <bot> no i am an ai <stop>
+<user> are you smart <stop> <bot> i am artificial non intelligent <stop>
+
+i am bob <stop>
+i am a small ai <stop>
+i am an artificial non intelligent ai <stop>
+my name is bob <stop>
+i am made by potato labs <stop>
+potato labs makes small ai models <stop>
+i am a language model <stop>
+i am a computer program <stop>
+i like learning <stop>
+i like coding <stop>
+i like reading <stop>
+i like helping people <stop>
+
+<user> what is ai <stop> <bot> ai is artificial intelligence <stop>
+<user> what is machine learning <stop> <bot> machine learning learns from examples <stop>
+<user> what is python <stop> <bot> python is a programming language <stop>
+<user> what is data <stop> <bot> data is information <stop>
+<user> what is a computer <stop> <bot> a computer processes information <stop>
+<user> what is the internet <stop> <bot> the internet connects computers <stop>
+<user> what is a model <stop> <bot> a model learns to predict things <stop>
+<user> what is code <stop> <bot> code is instructions for a computer <stop>
+<user> what is software <stop> <bot> software is a set of programs <stop>
+<user> what is hardware <stop> <bot> hardware is the physical parts of a computer <stop>
+
+the sky is blue <stop>
+grass is green <stop>
+water is clear <stop>
+fire is hot <stop>
+ice is cold <stop>
+rocks are hard <stop>
+pillows are soft <stop>
+light means bright <stop>
+dark means no light <stop>
+the sun is a star <stop>
+the moon is a satellite <stop>
+the earth is a planet <stop>
+
+<user> what is the opposite of up <stop> <bot> down <stop>
+<user> what is the opposite of left <stop> <bot> right <stop>
+<user> what is the opposite of hot <stop> <bot> cold <stop>
+<user> what is the opposite of fast <stop> <bot> slow <stop>
+<user> what is the opposite of big <stop> <bot> small <stop>
+<user> what is the opposite of happy <stop> <bot> sad <stop>
+<user> what is the opposite of good <stop> <bot> bad <stop>
+<user> what is the opposite of light <stop> <bot> dark <stop>
+<user> what is the opposite of hard <stop> <bot> soft <stop>
+
+<user> what is the capital of france <stop> <bot> the capital of france is paris <stop>
+<user> what is the capital of india <stop> <bot> the capital of india is new delhi <stop>
+<user> what is the capital of usa <stop> <bot> the capital of usa is washington <stop>
+<user> what is the capital of japan <stop> <bot> the capital of japan is tokyo <stop>
+<user> what is the capital of uk <stop> <bot> the capital of uk is london <stop>
+france is a country <stop>
+india is a country <stop>
+usa is a country <stop>
+japan is a country <stop>
+uk is a country <stop>
+paris is in france <stop>
+new delhi is in india <stop>
+washington is in usa <stop>
+tokyo is in japan <stop>
+london is in uk <stop>
+
+one plus one is two <stop>
+one plus two is three <stop>
+two plus two is four <stop>
+two plus three is five <stop>
+five plus five is ten <stop>
+one minus one is zero <stop>
+two minus one is one <stop>
+two times two is four <stop>
+three times three is nine <stop>
+one two three four five <stop>
+six seven eight nine ten <stop>
+
+cats are animals <stop>
+dogs are animals <stop>
+birds are animals <stop>
+fish are animals <stop>
+cats say meow <stop>
+dogs say woof <stop>
+birds can fly <stop>
+fish can swim <stop>
+cats have four legs <stop>
+dogs have four legs <stop>
+a kitten is a baby cat <stop>
+a puppy is a baby dog <stop>
+
+apples are fruit <stop>
+bananas are fruit <stop>
+oranges are fruit <stop>
+carrots are vegetables <stop>
+potatoes are vegetables <stop>
+fruit grows on trees <stop>
+vegetables grow in the ground <stop>
+
+a triangle has three sides <stop>
+a square has four sides <stop>
+a circle has no sides <stop>
+red blue and yellow are primary colors <stop>
+green purple and orange are secondary colors <stop>
+
+<user> tell me a joke <stop> <bot> why did the computer go to the doctor because it had a virus <stop>
+<user> make me laugh <stop> <bot> why was the math book sad because it had too many problems <stop>
+<user> what is funny <stop> <bot> a computer going to the doctor because it had a virus <stop>
+
+<user> what color is the sky <stop> <bot> the sky is blue <stop>
+<user> what color is grass <stop> <bot> grass is green <stop>
+<user> what color is the sun <stop> <bot> the sun is yellow <stop>
+<user> what color is water <stop> <bot> water is clear <stop>
+
+<user> what animal says meow <stop> <bot> cats say meow <stop>
+<user> what animal says woof <stop> <bot> dogs say woof <stop>
+<user> what animal can fly <stop> <bot> birds can fly <stop>
+<user> what animal can swim <stop> <bot> fish can swim <stop>
